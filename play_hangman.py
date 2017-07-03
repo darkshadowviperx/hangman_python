@@ -1,0 +1,2 @@
+import hangman
+hangman.play()
